@@ -1,0 +1,691 @@
+[
+  {
+    "id": "p1",
+    "slug": "koshki-floral-kurthi-red",
+    "name": "Koshki Kashida Red Set",
+    "category": "Women",
+    "subcategory": "Kurthi",
+    "description": "A-line floral kurthi with clean neckline, soft handfeel, and everyday comfort fit for casual and semi-formal wear.",
+    "material": "Cotton Blend",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "variants": [
+      {
+        "id": "koshki-floral-kurthi-red",
+        "color": "Red",
+        "price": 5000,
+        "image": "/optimized/koshki_red.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p2",
+    "slug": "koshki-floral-kurthi-green",
+    "name": "Koshki Regal Green Set",
+    "category": "Women",
+    "subcategory": "Kurthi",
+    "description": "A-line floral kurthi with clean neckline, soft handfeel, and everyday comfort fit for casual and semi-formal wear.",
+    "material": "Cotton Blend",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "variants": [
+      {
+        "id": "koshki-floral-kurthi-green",
+        "color": "Green",
+        "price": 4900,
+        "image": "/optimized/koshki_green.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p3",
+    "slug": "koshki-floral-kurthi-maroon",
+    "name": "Koshki Heritage Maroon Set",
+    "category": "Women",
+    "subcategory": "Kurthi",
+    "description": "A-line floral kurthi with clean neckline, soft handfeel, and everyday comfort fit for casual and semi-formal wear.",
+    "material": "Cotton Blend",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "variants": [
+      {
+        "id": "koshki-floral-kurthi-maroon",
+        "color": "Maroon",
+        "price": 5000,
+        "image": "/optimized/koshki_maroon.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p4",
+    "slug": "koshki-floral-kurthi-black",
+    "name": "Koshki Noir Embroidery Set",
+    "category": "Women",
+    "subcategory": "Kurthi",
+    "description": "A-line floral kurthi with clean neckline, soft handfeel, and everyday comfort fit for casual and semi-formal wear.",
+    "material": "Cotton Blend",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "variants": [
+      {
+        "id": "koshki-floral-kurthi-black",
+        "color": "Black",
+        "price": 5000,
+        "image": "/optimized/koshki_black.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p5",
+    "slug": "koshki-floral-kurthi-rani-pink",
+    "name": "Koshki Rani Pink Festive Set",
+    "category": "Women",
+    "subcategory": "Kurthi",
+    "description": "A-line floral kurthi with clean neckline, soft handfeel, and everyday comfort fit for casual and semi-formal wear.",
+    "material": "Cotton Blend",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "variants": [
+      {
+        "id": "koshki-floral-kurthi-rani-pink",
+        "color": "Rani Pink",
+        "price": 5000,
+        "image": "/optimized/koshki_rani_pink.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p6",
+    "slug": "bridge-town-party-set-red",
+    "name": "Bridge Town Party Set - Red",
+    "category": "Women",
+    "subcategory": "Party Wear",
+    "description": "Premium embroidered party set with rich finish and elegant drape for wedding functions and festive gatherings.",
+    "material": "Viscose Silk",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "id": "bridge-town-party-set-red",
+        "color": "Red",
+        "price": 4900,
+        "image": "/optimized/bridge_town_red.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p7",
+    "slug": "bridge-town-party-set-purple",
+    "name": "Bridge Town Party Set - Purple",
+    "category": "Women",
+    "subcategory": "Party Wear",
+    "description": "Premium embroidered party set with rich finish and elegant drape for wedding functions and festive gatherings.",
+    "material": "Viscose Silk",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "id": "bridge-town-party-set-purple",
+        "color": "Purple",
+        "price": 4900,
+        "image": "/optimized/bridge_town_purple.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p8",
+    "slug": "bridge-town-party-set-lemon-green",
+    "name": "Bridge Town Party Set - Lemon Green",
+    "category": "Women",
+    "subcategory": "Party Wear",
+    "description": "Premium embroidered party set with rich finish and elegant drape for wedding functions and festive gatherings.",
+    "material": "Viscose Silk",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "id": "bridge-town-party-set-lemon-green",
+        "color": "Lemon Green",
+        "price": 4900,
+        "image": "/optimized/bridge_town_lemon_green.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p9",
+    "slug": "cazora-comfort-fit-maroon",
+    "name": "Cazora Comfort Fit - Maroon",
+    "category": "Women",
+    "subcategory": "Casual",
+    "description": "Straight-cut casual set with smooth fall, lightweight construction, and all-day movement comfort.",
+    "material": "Rayon",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "variants": [
+      {
+        "id": "cazora-comfort-fit-maroon",
+        "color": "Maroon",
+        "price": 4800,
+        "image": "/optimized/cazora_maroon.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p10",
+    "slug": "cazora-comfort-fit-peach",
+    "name": "Cazora Comfort Fit - Peach",
+    "category": "Women",
+    "subcategory": "Casual",
+    "description": "Straight-cut casual set with smooth fall, lightweight construction, and all-day movement comfort.",
+    "material": "Rayon",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "variants": [
+      {
+        "id": "cazora-comfort-fit-peach",
+        "color": "Peach",
+        "price": 4800,
+        "image": "/optimized/cazora_peach.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p11",
+    "slug": "cazora-comfort-fit-sky-blue",
+    "name": "Cazora Comfort Fit - Sky Blue",
+    "category": "Women",
+    "subcategory": "Casual",
+    "description": "Straight-cut casual set with smooth fall, lightweight construction, and all-day movement comfort.",
+    "material": "Rayon",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "variants": [
+      {
+        "id": "cazora-comfort-fit-sky-blue",
+        "color": "Sky Blue",
+        "price": 4800,
+        "image": "/optimized/cazora_skyblue.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p12",
+    "slug": "portway-signature-set-light-maroon",
+    "name": "Portway Signature Set - Light Maroon",
+    "category": "Women",
+    "subcategory": "Cord Set",
+    "description": "Refined cord set with structured paneling and polished finishing for festive and smart-casual occasions.",
+    "material": "Premium Georgette",
+    "sizes": [
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "variants": [
+      {
+        "id": "portway-signature-set-light-maroon",
+        "color": "Light Maroon",
+        "price": 3500,
+        "image": "/optimized/portway_light_maroon.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p13",
+    "slug": "portway-signature-set-dark-maroon",
+    "name": "Portway Signature Set - Dark Maroon",
+    "category": "Women",
+    "subcategory": "Cord Set",
+    "description": "Refined cord set with structured paneling and polished finishing for festive and smart-casual occasions.",
+    "material": "Premium Georgette",
+    "sizes": [
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "variants": [
+      {
+        "id": "portway-signature-set-dark-maroon",
+        "color": "Dark Maroon",
+        "price": 3500,
+        "image": "/optimized/portway_dark_maroon.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p14",
+    "slug": "portway-signature-set-red",
+    "name": "Portway Signature Set - Red",
+    "category": "Women",
+    "subcategory": "Cord Set",
+    "description": "Refined cord set with structured paneling and polished finishing for festive and smart-casual occasions.",
+    "material": "Premium Georgette",
+    "sizes": [
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "variants": [
+      {
+        "id": "portway-signature-set-red",
+        "color": "Red",
+        "price": 3800,
+        "image": "/optimized/portway_red.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p15",
+    "slug": "linen-cotton-cord-set-pink",
+    "name": "Linen Cotton Cord Set - Pink",
+    "category": "Women",
+    "subcategory": "Cord Set",
+    "description": "Breathable linen-cotton cord set with minimal styling, suitable for office, travel, and daily wear.",
+    "material": "Linen Cotton",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "id": "linen-cotton-cord-set-pink",
+        "color": "Pink",
+        "price": 2799,
+        "image": "/optimized/cord_set_linen_cotton_pink.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p16",
+    "slug": "linen-cotton-cord-set-light-blue",
+    "name": "Linen Cotton Cord Set - Light Blue",
+    "category": "Women",
+    "subcategory": "Cord Set",
+    "description": "Breathable linen-cotton cord set with minimal styling, suitable for office, travel, and daily wear.",
+    "material": "Linen Cotton",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "id": "linen-cotton-cord-set-light-blue",
+        "color": "Light Blue",
+        "price": 2799,
+        "image": "/optimized/cord_set_linen_cotton_light_blue.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p17",
+    "slug": "linen-cotton-cord-set-orange",
+    "name": "Linen Cotton Cord Set - Orange",
+    "category": "Women",
+    "subcategory": "Cord Set",
+    "description": "Breathable linen-cotton cord set with minimal styling, suitable for office, travel, and daily wear.",
+    "material": "Linen Cotton",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "id": "linen-cotton-cord-set-orange",
+        "color": "Orange",
+        "price": 2799,
+        "image": "/optimized/cordset_cotton_orange.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p18",
+    "slug": "woolen-kurtha-winter-set",
+    "name": "Woolen Kurtha Winter Set",
+    "category": "Winter Wear",
+    "subcategory": "Kurtha Set",
+    "description": "Warm woolen kurtha set with insulated inner comfort and elegant silhouette for winter outings and events.",
+    "material": "Wool Blend",
+    "sizes": [
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "variants": [
+      {
+        "id": "p6v1",
+        "color": "Navy Blue",
+        "price": 3899,
+        "image": "/optimized/woolen_kurtha_set_kud_blue.jpg"
+      },
+      {
+        "id": "p6v2",
+        "color": "Charcoal",
+        "price": 3899,
+        "image": "/optimized/woolen_kurtha_set_kud.jpg"
+      },
+      {
+        "id": "p6v3",
+        "color": "Classic",
+        "price": 3999,
+        "image": "/optimized/modek_woolen_kurtha_set.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p19",
+    "slug": "woolen-pant-essential",
+    "name": "Woolen Pant Essential",
+    "category": "Winter Wear",
+    "subcategory": "Bottom Wear",
+    "description": "Thermal-friendly woolen pants with tapered fit and stretch waistband for day-long winter comfort.",
+    "material": "Wool Stretch",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "variants": [
+      {
+        "id": "p7v1",
+        "color": "Grey",
+        "price": 1899,
+        "image": "/optimized/woolen_pant_grey.jpg"
+      },
+      {
+        "id": "p7v2",
+        "color": "White",
+        "price": 1899,
+        "image": "/optimized/woolen_pant_white.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p20",
+    "slug": "dola-silk-festive",
+    "name": "Dola Silk Festive",
+    "category": "Festival",
+    "subcategory": "Silk",
+    "description": "Festive dola silk design with glossy finish, handcrafted details, and premium occasion-ready look.",
+    "material": "Dola Silk",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "id": "p8v1",
+        "color": "Gold",
+        "price": 4299,
+        "image": "/optimized/dola_silk.jpg"
+      },
+      {
+        "id": "p8v2",
+        "color": "Yellow",
+        "price": 4299,
+        "image": "/optimized/dola_silk_yellow.jpg"
+      },
+      {
+        "id": "p8v3",
+        "color": "Orange",
+        "price": 4299,
+        "image": "/optimized/silk_orange.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p21",
+    "slug": "velvet-evening-series",
+    "name": "Velvet Evening Series",
+    "category": "Festival",
+    "subcategory": "Velvet",
+    "description": "Rich velvet eveningwear with smooth texture and statement color palette for premium festive styling.",
+    "material": "Velvet",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "id": "p9v1",
+        "color": "Blue",
+        "price": 4599,
+        "image": "/optimized/fabric_velvet_blue.jpg"
+      },
+      {
+        "id": "p9v2",
+        "color": "Green",
+        "price": 4599,
+        "image": "/optimized/fabric_velvet_green.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p22",
+    "slug": "party-wear-designer-dress",
+    "name": "Party Wear Designer Dress",
+    "category": "Women",
+    "subcategory": "Party Wear",
+    "description": "Designer one-piece dress with flattering structure and event-ready look for celebrations and evening parties.",
+    "material": "Designer Blend",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "id": "p10v1",
+        "color": "Classic Red",
+        "price": 4999,
+        "image": "/optimized/party_wear_dress.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p23",
+    "slug": "marizza-occasion-kurti",
+    "name": "Marizza Occasion Kurti",
+    "category": "Women",
+    "subcategory": "Kurthi",
+    "description": "Elegant marizza kurti with festive pattern and refined detailing suitable for gatherings and functions.",
+    "material": "Soft Viscose",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "id": "p11v1",
+        "color": "Red",
+        "price": 2899,
+        "image": "/optimized/marizza_red.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p24",
+    "slug": "mk-woolen-signature-set",
+    "name": "MK Woolen Signature Set",
+    "category": "Winter Wear",
+    "subcategory": "Cord Set",
+    "description": "High-warmth woolen signature cord set with elevated drape and polished festive-winter styling.",
+    "material": "Premium Wool Blend",
+    "sizes": [
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "variants": [
+      {
+        "id": "p12v1",
+        "color": "Red",
+        "price": 4199,
+        "image": "/optimized/mk_brand_red.jpg"
+      },
+      {
+        "id": "p12v2",
+        "color": "Pink",
+        "price": 4199,
+        "image": "/optimized/mk_brand_pink.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p25",
+    "slug": "sa-shri-woolen-cord-set",
+    "name": "Sa Shri Woolen Cord Set",
+    "category": "Winter Wear",
+    "subcategory": "Cord Set",
+    "description": "Soft-insulated woolen cord set by Sa Shri with balanced fit for stylish and comfortable winter wear.",
+    "material": "Wool Blend",
+    "sizes": [
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "variants": [
+      {
+        "id": "p13v1",
+        "color": "Classic",
+        "price": 4099,
+        "image": "/optimized/sa_shri_woolen_cord_set.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p26",
+    "slug": "koshki-brand-signature-kurthi",
+    "name": "Koshki Brand Signature Kurthi",
+    "category": "Women",
+    "subcategory": "Kurthi",
+    "description": "Signature koshki design with a distinct embroidery panel and elegant festive look.",
+    "material": "Cotton Blend",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "variants": [
+      {
+        "id": "p14v1",
+        "color": "Brand Red",
+        "price": 5000,
+        "image": "/optimized/koshki_brand_red.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p27",
+    "slug": "portway-rich-border-set",
+    "name": "Portway Rich Border Set",
+    "category": "Women",
+    "subcategory": "Cord Set",
+    "description": "Portway premium pattern with richer border detailing and occasion-focused styling.",
+    "material": "Premium Georgette",
+    "sizes": [
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "variants": [
+      {
+        "id": "p15v1",
+        "color": "Dark Maroon Rich",
+        "price": 3800,
+        "image": "/optimized/bran_portway_dark_maroon.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p28",
+    "slug": "portway-dual-tone-maroon-set",
+    "name": "Portway Dual Tone Maroon Set",
+    "category": "Women",
+    "subcategory": "Cord Set",
+    "description": "Distinct portway design in dual-tone maroon with heavier border artwork.",
+    "material": "Premium Georgette",
+    "sizes": [
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "variants": [
+      {
+        "id": "p16v1",
+        "color": "Red Maroon",
+        "price": 3800,
+        "image": "/optimized/brand_porway_red_maroon.jpg"
+      }
+    ]
+  },
+  {
+    "id": "p29",
+    "slug": "portway-xl-classic-set",
+    "name": "Portway XL Classic Set",
+    "category": "Women",
+    "subcategory": "Cord Set",
+    "description": "Separate portway cut in XL-focused fit with its own silhouette and drape.",
+    "material": "Premium Georgette",
+    "sizes": [
+      "XL",
+      "XXL"
+    ],
+    "variants": [
+      {
+        "id": "p17v1",
+        "color": "XL Edition",
+        "price": 3500,
+        "image": "/optimized/portway_xl.jpg"
+      }
+    ]
+  }
+]

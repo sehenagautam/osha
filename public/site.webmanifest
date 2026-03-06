@@ -1,0 +1,21 @@
+{
+  "name": "OSHA Clothing & Apparels",
+  "short_name": "OSHA Store",
+  "description": "OSHA Clothing & Apparels ecommerce storefront",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f5ef",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/osha_logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/osha_logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

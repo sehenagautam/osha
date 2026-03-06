@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Prata&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#f8f5ef] text-slate-900;
+    background-image: radial-gradient(circle at top right, #f9f2e8 0%, #f3f9f8 45%, #f8f5ef 100%);
+  }
+}
