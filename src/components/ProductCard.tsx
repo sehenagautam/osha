@@ -8,7 +8,7 @@ const formatPrice = (npr: number) => `NPR ${npr.toLocaleString()}`;
 
 function ProductCard({ product }: { product: Product }) {
   const [selectedVariantId, setSelectedVariantId] = useState(product.variants[0]?.id);
-  const { addToCart } = useCart();
+  const { items, addToCart, updateQuantity } = useCart();
 
   const selected = useMemo(
     () => product.variants.find((item) => item.id === selectedVariantId) ?? product.variants[0],
@@ -26,6 +26,15 @@ function ProductCard({ product }: { product: Product }) {
       size: product.sizes[0] ?? 'Free Size'
     });
   };
+
+  const selectedSize = product.sizes[0] ?? 'Free Size';
+  const cartEntry = items.find(
+    (item) =>
+      item.productId === product.id &&
+      item.variantId === selected.id &&
+      item.size === selectedSize
+  );
+  const quantity = cartEntry?.quantity ?? 0;
 
   return (
     <article className="bg-white rounded-2xl border border-slate-200 overflow-hidden shadow-[0_10px_30px_rgba(15,23,42,0.06)] hover:shadow-[0_16px_38px_rgba(15,23,42,0.1)] transition">
@@ -68,9 +77,43 @@ function ProductCard({ product }: { product: Product }) {
           <p className="mt-2 mb-4 text-sm text-slate-500">Color: {selected.color}</p>
         )}
 
-        <button onClick={onAdd} className="w-full bg-accent text-white rounded-xl py-2.5 font-semibold tracking-wide">
-          Add To Cart
-        </button>
+        {quantity > 0 && cartEntry ? (
+          <div className="rounded-xl border border-[#d8cdcd] bg-[#f3ecec] p-2">
+            <p className="text-sm font-medium text-brand-900 mb-2">{quantity} item in cart</p>
+            <div className="grid grid-cols-3 gap-2">
+              <button
+                onClick={() => updateQuantity(cartEntry.id, quantity - 1)}
+                className="rounded-lg border border-slate-300 bg-white py-2 text-lg font-bold text-slate-700"
+                aria-label="Decrease quantity"
+              >
+                -
+              </button>
+              <div className="rounded-lg bg-white py-2 text-center font-semibold">{quantity}</div>
+              <button
+                onClick={() => addToCart({
+                  productId: product.id,
+                  variantId: selected.id,
+                  name: product.name,
+                  color: selected.color,
+                  image: selected.image,
+                  price: selected.price,
+                  size: selectedSize
+                })}
+                className="rounded-lg bg-accent py-2 text-lg font-bold text-white"
+                aria-label="Increase quantity"
+              >
+                +
+              </button>
+            </div>
+          </div>
+        ) : (
+          <button
+            onClick={onAdd}
+            className="w-full bg-accent text-white rounded-xl py-2.5 font-semibold tracking-wide"
+          >
+            Add To Cart
+          </button>
+        )}
       </div>
     </article>
   );
