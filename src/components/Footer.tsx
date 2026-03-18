@@ -80,8 +80,6 @@ function Footer() {
         </p>
         <a
           href="https://sajedar.com"
-          target="_blank"
-          rel="nofollow noopener noreferrer"
           className="text-xs text-slate-400 md:ml-auto hover:text-white"
         >
           Powered by sajedar.com
